@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work_dir/WFH/BT122_Android/BluetoothChat/Application/src/main/res/layout-w720dp/activity_main.xml" value="0.20502645502645503" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/BluetoothChat/Application/src/main/res/layout/activity_device_list.xml" value="0.2421875" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/BluetoothChat/Application/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/BluetoothChat/Application/src/main/res/layout/device_name.xml" value="0.2421875" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/BluetoothChat/Application/src/main/res/layout/fragment_bluetooth_chat.xml" value="0.536" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/BluetoothChat/Application/src/main/res/layout/message.xml" value="0.2421875" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/BluetoothChat/Application/src/main/res/menu/bluetooth_chat.xml" value="0.536" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/BluetoothChat/Application/src/main/res/menu/main.xml" value="0.2421875" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/connectivity-samples/BluetoothChat/Application/src/main/res/layout-w720dp/activity_main.xml" value="0.2" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/connectivity-samples/BluetoothChat/Application/src/main/res/layout/activity_device_list.xml" value="0.176" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/connectivity-samples/BluetoothChat/Application/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/connectivity-samples/BluetoothChat/Application/src/main/res/layout/device_name.xml" value="0.144" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/connectivity-samples/BluetoothChat/Application/src/main/res/layout/fragment_bluetooth_chat.xml" value="0.121875" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/connectivity-samples/BluetoothChat/Application/src/main/res/layout/message.xml" value="0.121875" />
+        <entry key="..\:/Work_dir/WFH/BT122_Android/connectivity-samples/BluetoothChat/Application/src/main/res/menu/bluetooth_chat.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
